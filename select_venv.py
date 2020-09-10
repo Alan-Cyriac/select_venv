@@ -41,10 +41,12 @@ if __name__ == "__main__":
     # if flag is true activate the virtual enviornment
     if flag == True:
         action = " '{}' virtual enviornment is activated now.".format(venvs[index])
+        # printing the action taken
+        print( action )
         # activating virtual enviornment here
         os.system(command)
     # else do nothing
     else:
         action = "choose index from the listed virtual enviornments"
-    # printing the action taken
-    print( action )
+        # printing the action taken
+        print( action )
