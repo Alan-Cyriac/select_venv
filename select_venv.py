@@ -39,7 +39,7 @@ if __name__ == "__main__":
     command, index, flag = activate_venv(path, venvs, flag)
     # check the flag, 
     # if flag is true activate the virtual enviornment
-    if flag is True:
+    if flag == True:
         action = " '{}' virtual enviornment is activated now.".format(venvs[index])
         # activating virtual enviornment here
         os.system(command)
