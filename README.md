@@ -2,14 +2,15 @@
 
 # Why?
 
-I'm tired of activating different enviornment each time Aooooshh(Zzzz..Zzzz)...
+I'm tired of activating different enviornment each time.
 So I decide to create this program.
 
 I know it is possible to activate by register in the registry...but how many timess??!!
 # Folders need to create
-  E:\pyworld\prgmworld \n
-  E:\pyworld\venvworld
-  create every virtual enviornment in venvworld
+  E:\pyworld\prgmworld .
+  E:\pyworld\venvworld .
+
+create every virtual enviornment in venvworld
 
 that's how it works
 
