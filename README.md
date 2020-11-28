@@ -7,7 +7,7 @@ So I decide to create this program.
 
 I know it is possible to activate by register in the registry...but how many timess??!!
 # Folders need to create
-  E:\pyworld\prgmworld
+  E:\pyworld\prgmworld \n
   E:\pyworld\venvworld
   create every virtual enviornment in venvworld
 
